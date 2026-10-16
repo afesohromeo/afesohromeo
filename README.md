@@ -39,7 +39,7 @@ Oversee a construction project from anywhere. Site managers capture **verified p
 
 `Flutter` • `Serverpod 4` • `PostgreSQL` • `BLoC` • `GoRouter` • `Serverpod Cloud`
 
-🌐 **Try the web app:** [plotwatch.serverpod.space](https://plotwatch.serverpod.space) • 💻 **Source:** [github.com/afesohromeo/plotwatch](https://github.com/afesohromeo/plotwatch)
+🌐 **Try the web app:** [plotwatch.serverpod.space](https://plotwatch.serverpod.space)
 
 ---
 
