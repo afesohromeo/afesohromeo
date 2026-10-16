@@ -53,7 +53,7 @@ Agent skills for Flutter apps built with flutter_bloc (Claude Code, Codex, Curso
 
 ### 🧱 [flutter_bloc_kit](https://github.com/afesohromeo/flutter_bloc_kit)
 
-Production-ready Flutter starter kit with Clean Architecture and flutter_bloc: BLoC + Freezed, GoRouter, Dio or Serverpod, English and French, responsive layouts and reusable components. Ships with **written engineering standards (51 rules)**, a reference feature, **136 tests**, a screenshot harness and an agent setup (`CLAUDE.md`).
+Production-ready Flutter starter kit: a layered architecture inspired by Clean Architecture, with UI and BLoCs organised by feature; BLoC + Freezed, GoRouter, Dio or Serverpod, English and French, responsive layouts and reusable components. Ships with **written engineering standards (51 rules)**, a reference feature, **136 tests**, a screenshot harness and an agent setup (`CLAUDE.md`).
 
 ---
 
@@ -112,7 +112,8 @@ Android • iOS • Web • Windows • macOS • Linux
 ![Freezed](https://img.shields.io/badge/Freezed-8A2BE2?style=for-the-badge)
 ![GoRouter](https://img.shields.io/badge/GoRouter-red?style=for-the-badge)
 
-- Clean Architecture
+- Layered architecture inspired by Clean Architecture
+- Feature-first UI and state (BLoC per feature)
 - Repository Pattern
 - SOLID Principles
 - Responsive UI
